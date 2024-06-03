@@ -1,0 +1,10 @@
+/.idea/
+/.venv/
+/venv
+/db/*
+/queries_vectorizer/*
+/vectorizer/*
+/__pycache__/
+/word_embedding_model/*
+/clustering/*
+/flask_module/chroma/*
